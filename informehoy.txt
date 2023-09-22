@@ -2,4 +2,4 @@ vimos comandos y taller
 que es un sistema de control de versiones
 ramas
 Como ignorar archivos para no ser comprometidos en el área de trabajo.
-Cambiar de ramas y volver a la principal”
+Cambiar de ramas y volver a la principal”s
